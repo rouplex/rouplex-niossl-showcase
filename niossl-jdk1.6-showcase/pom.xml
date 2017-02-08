@@ -61,7 +61,7 @@
     <dependencies>
         <dependency>
             <groupId>org.rouplex</groupId>
-            <artifactId>niossl-nossl</artifactId>
+            <artifactId>nossl</artifactId>
             <version>1.6.0-SNAPSHOT</version>
         </dependency>
 
